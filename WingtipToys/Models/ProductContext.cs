@@ -6,7 +6,7 @@ using System.Web;
 
 namespace WingtipToys.Models
 {
-    public class ProductContext : DbContext
+    public class ProductContext:DbContext
     {
         public ProductContext() : base("WingtipToys")
         {

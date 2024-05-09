@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingtipToys", "WingtipToys.csproj", "{3E785F46-D098-4BB3-8452-84932BCDCBC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingtipToys", "WingtipToys.csproj", "{EE49A92C-5056-494F-AE19-2EBAC71E718C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3E785F46-D098-4BB3-8452-84932BCDCBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3E785F46-D098-4BB3-8452-84932BCDCBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3E785F46-D098-4BB3-8452-84932BCDCBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3E785F46-D098-4BB3-8452-84932BCDCBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE49A92C-5056-494F-AE19-2EBAC71E718C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE49A92C-5056-494F-AE19-2EBAC71E718C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE49A92C-5056-494F-AE19-2EBAC71E718C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE49A92C-5056-494F-AE19-2EBAC71E718C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {90FD3886-6294-445E-A472-C233258F8923}
+		SolutionGuid = {DBAB8537-567A-4B24-82A0-7E78FC27689C}
 	EndGlobalSection
 EndGlobal
